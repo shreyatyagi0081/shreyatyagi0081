@@ -32,14 +32,6 @@
 
 ---
 
-📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyatyagi0081&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyatyagi0081&layout=compact&theme=dracula" width="40%" />
-</p>
-
----
-
 ### 🤝 Connect With Me  
 📧 Email: shreyatyagi0081@gmail.com  
 🔗 Portfolio (Coming Soon…)
