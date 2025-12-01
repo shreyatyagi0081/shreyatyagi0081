@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Tyagi</h1>
-<h3 align="center">BCA Student | Frontend Developer | C++ Learner</h3>
+<h3 align="center">MCA Student | Frontend Developer | C++ Learner</h3>
 
 ---
 
