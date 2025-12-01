@@ -4,7 +4,7 @@
 ---
 
 🌟 About Me  
-- 🎓 BCA Student  
+- 🎓 MCA Student  
 - 💻 Passionate about **Web Development**  
 - 🌱 Currently learning **HTML, CSS, JavaScript & C++**  
 - 🎧 Working on: **Music Player Project (Beat Box)**  
